@@ -32,7 +32,7 @@ public class Main {
 	Piotrek.setPracownik(Reżyser);
 */
 		
-	String url="jdbc:hsqldb:mem:test"+","+"SA"+"";
+	String url="jdbc:hsqldb:mem:test";
 	Pracownik pptaszynski = new Pracownik();
 	pptaszynski.setFunkcja("Reżyser");
 	
